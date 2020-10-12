@@ -1,0 +1,20 @@
+{
+  "name": "watering-plants",
+  "version": "1.0.0",
+  "description": "## Project setup ``` npm install ```",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd ./server; npm run start",
+    "build": "cd ./client; npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThisIsJohnBrown/watering-plants.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThisIsJohnBrown/watering-plants/issues"
+  },
+  "homepage": "https://github.com/ThisIsJohnBrown/watering-plants#readme"
+}
