@@ -25,9 +25,7 @@
     "vue-router": "^4.0.0-0",
     "vuefire": "^2.2.4",
     "vuex": "^4.0.0-0",
-    "vuexfire": "^3.2.4"
-  },
-  "devDependencies": {
+    "vuexfire": "^3.2.4",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-plugin-router": "^4.5.7",
@@ -39,6 +37,7 @@
     "eslint-plugin-vue": "^7.0.0-0",
     "vue-cli-plugin-vuefire": "^1.0.2"
   },
+  "devDependencies": {},
   "eslintConfig": {
     "root": true,
     "env": {
