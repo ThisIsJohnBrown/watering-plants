@@ -1,4 +1,6 @@
-let connection = new WebSocket(`ws://${location.host}`);
+let connection = new WebSocket(
+  `${location.protocol === "https:" ? "wss" : "ws"}://${location.host}`
+);
 
 export const connect = () => {
   connection.onopen = () => {
