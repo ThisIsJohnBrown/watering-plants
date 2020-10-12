@@ -4,7 +4,7 @@
   "description": "## Project setup ``` npm install ```",
   "main": "index.js",
   "scripts": {
-    "serve": "cd ./server; npm install; npm run start",
+    "start": "cd ./server; npm install; npm run start",
     "build": "cd ./client; npm install; npm run build"
   },
   "repository": {
